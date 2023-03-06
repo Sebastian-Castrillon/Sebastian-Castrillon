@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Sebastián
+
+I'm currently working at [SKG Tecnologia](https://skgtecnologia.com/) as a data scientist. At my role i have the opportunity to develop ETL's using Python, Apache Kafka, PostgreSQL and Redis.
+
+I also work as a freelancer, mainly with tasks related to databases and data science, here's my [upwork profile](https://www.upwork.com/freelancers/~015ce26a0fba5cb146)
 
 <!--
 **Sebastian-Castrillon/Sebastian-Castrillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
