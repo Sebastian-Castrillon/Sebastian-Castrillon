@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Sebastián
 
-I'm currently working at [SKG Tecnologia](https://skgtecnologia.com/) as a data scientist. At my role i have the opportunity to develop ETL's using Python, Apache Kafka, PostgreSQL and Redis.
+I'm currently working at [SKG Tecnologia](https://skgtecnologia.com/) as a data scientist. At my role i have the opportunity to develop ETL's using Python, Apache Kafka, PostgreSQL and Redis. 
+
+At the moment in learning about object detection and clasification with CNN's.
 
 I also work as a freelancer, mainly with tasks related to databases and data science, here's my [upwork profile](https://www.upwork.com/freelancers/~015ce26a0fba5cb146)
 
